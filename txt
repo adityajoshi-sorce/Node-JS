@@ -1,0 +1,8 @@
+1. Add Command
+node todo/todo.js add "Buy Milk"
+
+2. List Command
+node todo/todo.js list
+
+3. Remove Command
+node todo/todo.js remove 2
